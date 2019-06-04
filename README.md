@@ -14,5 +14,7 @@ variables.
 3. Use the '+' operator to perform the following operations:
     
     (a)Print the sum of i plus your int variable on a new line.
+    
     (b)Print the sum of d plus your double variable to a scale of one decimal place on a new line.
+    
     (c)Concatenate s with the string you read as input and print the result on a new line. 
