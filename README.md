@@ -24,3 +24,18 @@ variables.
 Task
 
 Given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), and tax percent (the percentage of the meal price being added as tax) for a meal, find and print the meal's total cost. 
+
+# Day 3
+
+Task
+
+Given an integer,n, perform the following conditional actions:
+
+(a)If n is odd, print Weird
+
+(b)If n is even and in the inclusive range of 2 to 5, print Not Weird
+
+(c)If n is even and in the inclusive range of to 6 to 20, print Weird
+
+(d)If n is even and greater than 20, print Not Weird
+
