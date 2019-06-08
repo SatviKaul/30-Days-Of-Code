@@ -56,3 +56,9 @@ In addition, you must write the following instance methods:
     (b)If age>=13 and age<18, print You are a teenager..
     
     (c)Otherwise, print You are old..
+    
+# Day 5
+
+Task
+
+Given an integer,n , print its first 10 multiples. Each multiple n x i (where 1<=i<=10 ) should be printed on a new line in the form: n x i = result.
