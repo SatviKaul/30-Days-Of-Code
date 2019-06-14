@@ -92,3 +92,10 @@ Write a factorial function that takes a positive integer, N as a parameter and p
 Task
 
 Given a base-10 integer, n, convert it to binary (base-2). Then find and print the base-10 integer denoting the maximum number of consecutive 1's in n's binary representation.
+
+# Day 11
+
+Task
+
+Task
+Calculate the hourglass sum for every hourglass in A, then print the maximum hourglass sum.
