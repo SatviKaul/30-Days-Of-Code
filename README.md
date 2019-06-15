@@ -97,5 +97,22 @@ Given a base-10 integer, n, convert it to binary (base-2). Then find and print t
 
 Task
 
-Task
 Calculate the hourglass sum for every hourglass in A, then print the maximum hourglass sum.
+
+# Day 12
+
+Task
+
+You are given two classes, Person and Student, where Person is the base class and Student is the derived class. Completed code for Person and a declaration for Student are provided for you in the editor. Observe that Student inherits all the properties of Person.
+
+Complete the Student class by writing the following:A Student class constructor, which has 4 parameters:
+
+A string, firstName
+
+A string, lastName
+
+An integer, id
+
+An integer array (or vector) of test scores, scores
+
+A char calculate() method that calculates a Student object's average and returns the grade character representative of their calculated average.
